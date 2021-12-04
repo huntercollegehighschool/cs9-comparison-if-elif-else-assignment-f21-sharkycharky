@@ -28,4 +28,9 @@ opposite
 number = int(input("Enter a number: "))
 number2 = int(input("Enter another number: "))
 
-if number > 0 and number2 > 
+if number > 0 and number2 > 0
+ print ("positive")
+elif number == 0 or number2 == 0 
+ print ("zero")
+else #linked to latest if statement
+ print ("opposite")

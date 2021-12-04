@@ -23,3 +23,8 @@ not a month
 '''
 
 #start writing your code below
+
+month = input ("Enter a month: ")
+
+if month == September or April or June or November or september or april or june 
+ print "30"
