@@ -24,3 +24,8 @@ opposite
 '''
 
 #start writing your code below
+
+number = int(input("Enter a number: "))
+number2 = int(input("Enter another number: "))
+
+if number > 0 and number2 > 
